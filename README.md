@@ -1,10 +1,7 @@
 # 🕵️‍♂️ Forensic Report – NexaTech Case  
 
-[![Status](https://img.shields.io/badge/Project-Educational-blue)](#)  
-[![License](https://img.shields.io/badge/License-MIT-green)](#)  
-[![Forensics](https://img.shields.io/badge/Focus-Digital%20Forensics-orange)](#)  
-[![PenTest](https://img.shields.io/badge/Includes-Penetration%20Testing-red)](#)  
-[![Languages](https://img.shields.io/badge/Languages-English%20%7C%20Español%20%7C%20Català-purple)](#)  
+[![Status](https://img.shields.io/badge/Project-Educational-blue)](#)  [![License](https://img.shields.io/badge/License-MIT-green)](#) [![Forensics](https://img.shields.io/badge/Focus-Digital%20Forensics-orange)](#)  [![PenTest](https://img.shields.io/badge/Includes-Penetration%20Testing-red)](#)   
+[![Languages](https://img.shields.io/badge/Languages-English%20%7C%20Español%20%7C%20Català-purple)](#) 
 
 ---
 
